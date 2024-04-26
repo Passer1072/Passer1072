@@ -8,7 +8,7 @@
 - 😄 Pronouns: PASSER.
 - ⚡ Fun fact: At first, because the AI ​​assistance on the market was too expensive and unstable, I thought it would be better to write one myself, so I entered the field of computer AI vision. 😄  
 
-纯萌新，希望各位大佬进行指点:)
+纯萌新，欢迎各位大佬进行指点:)
 
 <!---
 Passer1072/Passer1072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
